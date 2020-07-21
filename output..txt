@@ -1,0 +1,39 @@
+******************* Starting execution **********************
+
+Successfully read the data.
+Getting the data ready.
+
+	Plotting the initial data.
+	Saved the initial data plotted to initialDataPlot.jpg.
+
+	Minimizing the cost function and finding the optimal theta values.
+	Done with minimizing of the cost function and finding the optimal theta values.
+
+	Plotting the convergence.
+	Saved the convergence graph to convergenceOfCostFunction.jpg.
+
+	Plotting the minimization path.
+	Saved the minimization path to minimizationPath.jpg.
+
+	 __________________________ Results __________________________
+
+	Plotting the user defined hypothesis.
+	Saved the hypothesis plotted to  userDefinedHypothesis.jpg
+
+	Plotting the user defined hypothesis.
+	Saved the hypothesis plotted to  inBuiltHypothesis.jpg
+
+	Final result theta parameters:
+		Using user function:  -3.7349110526206255 1.1698700199088008
+		Using built in function:  -3.7354612618391307 1.1699257936580776
+
+	Built in VS User function:
+		Root Mean Squared error for Built in function:  2.9282148407595403
+		Root Mean Squared error for user function:  2.928254088769939
+		Root Mean Squared error between user function and built-in function:  0.00022560657375416646
+
+		Accuracy of the model from in-built functions:  97.93880625497881
+
+		Accuracy of the model from user defined function:  97.94287540194564
+
+******************* Exiting **********************
