@@ -1,7 +1,7 @@
 """
     This program implements linear regression with one variable.
     By: Rahul Golhar
-"""
+""" 
 import numpy
 import matplotlib.pyplot as plt
 from ipython_genutils.py3compat import xrange
